@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.1)
-project(test-FindMathematica LANGUAGES CXX Fortran)
+project(test-FindMathematica LANGUAGES CXX)
 
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${PROJECT_SOURCE_DIR}/cmake)
 
